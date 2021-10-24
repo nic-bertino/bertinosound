@@ -7,8 +7,12 @@ module.exports = {
     },
   },
   theme: {
+    fontFamily: {
+      'serif': ['Nanum Myeongjo', 'ui-serif']
+    },
     container: {
       center: true,
+      padding: '2rem'
     },
     extend: {
       colors: {},

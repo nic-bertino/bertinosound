@@ -1,10 +1,10 @@
 ---
 items:
-  - text: Menu One
-    url: "#"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "#"
-  - text: Blog
+  - text: About
     url: "/blog"
+  - text: SoundCloud
+    url: "#"
+  - text: Spotify
+    url: "#"
+  - text: Bandcamp
+    url: "#"
